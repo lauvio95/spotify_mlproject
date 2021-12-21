@@ -1,0 +1,4 @@
+Notes: 
+In Task 1 our approach to coding has been to focus one classifier at a time producing the preprocessing, classifier learning and results sections. 
+
+For this reason it is advisable to run the codes of these sections ONE CLASSIFIER AT A TIME to avoid problems due to overwriting.

@@ -1,5 +1,5 @@
 # spotify_mlproject
-This project has been developed during the Machine Learning course at the Science Faculty of Lisbon University (FCUL). The dataset analyzed is '*Spotify_dataset.csv*'. This dataset, downloaded from Kaggle, contains selected data from the following dataset: Hit Predictor. 
+This project has been developed during the Machine Learning course at the Science Faculty of the University of Lisbon (FCUL). The dataset analyzed is '*Spotify_dataset.csv*'. This dataset, downloaded from Kaggle, contains selected data from the following dataset: Hit Predictor. 
 
 The 'Spotify_dataset.csv' we learned from has 41 106 instances described by 20 data fields.
 
